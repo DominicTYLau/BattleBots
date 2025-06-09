@@ -5,6 +5,8 @@ description: "Two Battle Bots to break each other"
 created_at: "2024-06-01"
 ---
 
+Time Spent: 14 hours
+
 ## May 15, 2025
 
 Highway was announced and it's a great time to make a project that I've always wanted. 2 BattleBots to break each other. The big challenge for this project is to make sure they both work in order to do damage.
@@ -67,11 +69,11 @@ Time Spent: 1.5 hour
 
 ## May 22, 2025
 
-I made sure that my cad was correct with the right dimensions. I added some threads to the weapon system. I contacted places to get quotes for the cnc parts. 
+I made sure that my cad was correct with the right dimensions. I added some threads to the weapon system. I contacted places to get quotes for the cnc parts. I also got the general code done. I used previous code from before which had the transceiver.
 
 ![Threads](Images/CAD/Threads.png)
 
-Time Spent: 0.5 hour 
+Time Spent: 1.5 hour 
 
 
 ## Jun 8, 2025
