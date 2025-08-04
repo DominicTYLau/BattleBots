@@ -5,7 +5,11 @@ description: "Two Battle Bots to break each other"
 created_at: "2024-06-01"
 ---
 
-Time Spent: 14 hours
+Time Spent: 28.5 hours
+
+# Planning & Designing
+
+---
 
 ## May 15, 2025
 
@@ -83,6 +87,10 @@ I got past the obstacle which was trying to lower the price. I removed some unne
 
 Time Spent: 0.5 hour
 
+# THE BUILD
+
+---
+
 ## Jul 20, 2025
 
 Received all the parts and started 3D printing the components. I began printing the body out of TPU. While that was printing, I soldered wires to the motors and attached the motor controllers to a protoboard with headers for easier connections.
@@ -90,7 +98,6 @@ Received all the parts and started 3D printing the components. I began printing 
 ![wires](Images/Build/wires.jpeg)
 ![motors](Images/Build/motors.jpeg)
 ![motor_controller](Images/Build/motor_controller.jpeg)
-
 
 Time Spent: 1.5 hours
 
