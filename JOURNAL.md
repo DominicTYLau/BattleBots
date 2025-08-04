@@ -75,11 +75,65 @@ I made sure that my cad was correct with the right dimensions. I added some thre
 
 Time Spent: 1.5 hour 
 
-
 ## Jun 8, 2025
 
 I got past the obstacle which was trying to lower the price. I removed some unneecessary parts. I'm still over, but I will pay it out of pocket. I also worked on schematic for the controller and that should be it.
 
 ![controller_schematic](Images/Schematic/controller_schematic.png)
 
-Time Spent: 0.5 hour 
+Time Spent: 0.5 hour
+
+## Jul 20, 2025
+
+Received all the parts and started 3D printing the components. I began printing the body out of TPU. While that was printing, I soldered wires to the motors and attached the motor controllers to a protoboard with headers for easier connections.
+
+![wires](Images/Build/wires.jpeg)
+![motors](Images/Build/motors.jpeg)
+![motor_controller](Images/Build/motor_controller.jpeg)
+
+
+Time Spent: 1.5 hours
+
+## Jul 21, 2025
+
+I soldered more wires to the voltage converters and connected the power distribution protoboard with terminal blocks. I also adjusted the voltage outputs of each converter using a multimeter. I continued printing more parts.
+
+Time Spent: 1.5 hour
+
+## July 22, 2025
+
+I connected the whole circuit and attempted to get things moving. I used SSH to access the Raspberry Pi and was able to write a quick test script to run the motors, including the brushless motor. Setting up the Raspberry Pi took a while. I used SSH along with VSCode’s SSH extension.
+
+![circuit](Images/Build/circuit.jpeg)
+
+Time Spent: 2 hours
+
+## July 23, 2025
+
+I tried to make the same circuit for the other bot and setup the pi but this time the brushless motor would not turn. It would only beep faster. I then tried the motor which beeped the same. I then swapped the Electronic Speed Controller and then it spun. The previous ESC did not work so I had to buy a new one. I also finished printing all the 3D parts.
+
+Time Spent: 2 hours
+
+## July 26, 2025
+
+I had to wait for the new ESC to come but when it came, the ESC was a bit different. The startup was worse, so when throttle or signal was sent it wouldn't spin right away. I had to calibrate and test it multiple times. Once I got that working, I made sure the rest of the motors worked.
+
+Time Spent: 2 hours
+
+## July 27, 2025
+
+I tried hot gluing the dc motors to the chasis but it wasn't sticking. I tried sanding but nothing worked. In the end, I used super glue which worked really well. I also assembled the weapon system which looked terrifying. Once it was done, I squeezed everything into the chassis. I was worried about the wires getting caught on the wheel, but that wasn't a problem when testing. I also used hot glue to make sure that the wires would not be loose. It works pretty well.
+
+![bot1](Images/Build/bot1.jpeg)
+![wire_mess](Images/Build/wire_mess.jpeg)
+
+Time Spent: 1.5 hours
+
+## July 28, 2025
+
+I did the same thing to the other bot but ran into an issue. My cad was wrong for the cnc part and I wasn't able to reach the bolt to tighten it to the motor. I had to use a drill and drill to the side. It took a really long time. But in the end, it worked. I got it all built and tested and the bots are terrifying even though they are only running at half speed.
+
+![drilling](Images/Build/drilling.jpeg)
+![bot2](Images/Build/bot2.jpeg)
+
+Time Spent: 4 hours

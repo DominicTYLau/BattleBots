@@ -1,6 +1,6 @@
 # BattleBots
 
-**Description:  ** This project contains two battle bots that are meant to battle each other. One has a vertical spinner while the other has a horizontal one. The chassis is mostly 3D printed with some electronics for the drive base.
+**Description:  ** This project contains two battle bots that are meant to battle each other. One has a vertical spinner while the other has a horizontal one. The chassis is mostly 3D printed with some electronics for the drive base. Both bots are powered by Raspberry Pi Zero 2 W boards, each running a local server. Users connected to the same Wi-Fi network can control the bots through a web interface using arrow keys for movement and the space bar to activate the weapon.
 
 **Motivation for this project:** I made this project because I’ve watched the larger bots and it was fun to see stuff being destroyed.  
 
