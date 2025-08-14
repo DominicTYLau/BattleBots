@@ -12,7 +12,7 @@ ROBOT 2: Full CAD https://a360.co/43yXR5A
 ![High Level Schematic](Images/CAD/Full_Cad_2.png)
 
   Wiring Diagram: 
-![High Level Schematic](Images/Schematic/Schematic_Robot.png)
+![High Level Schematic](Images/Schematic/update_schematic.png)
 
 ## BOM:
 
