@@ -7,9 +7,12 @@
 ROBOT 1: Full CAD https://a360.co/3ZUvcW5  
 ROBOT 2: Full CAD https://a360.co/43yXR5A
 
+## Demo:
+
+https://youtu.be/-OPFYqFXoV8
+
 ## Pictures:
-![High Level Schematic](Images/CAD/Full_Cad_1.1.png)
-![High Level Schematic](Images/CAD/Full_Cad_2.png)
+![High Level Schematic](Images/Build/bot.jpeg)
 
   Wiring Diagram: 
 ![High Level Schematic](Images/Schematic/update_schematic.png)
